@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713695277087",
+    "project_id": "bd-tp2-456ae",
+    "storage_bucket": "bd-tp2-456ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713695277087:android:c301d80e624cd4631d252a",
+        "android_client_info": {
+          "package_name": "com.example.tp2christianlima"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcHLds66e8w6kMqnaPCoU89PeSg3asmvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
